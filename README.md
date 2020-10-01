@@ -1,9 +1,8 @@
 # D-7-_3x7r-c7i0n_2ll3Gr0
 
 
-## Aim: Automate office work 
-
-Python web scraping from Allegro (real time) to csv file. 
+## Aim: 
+Python web scraping from Allegro (real time) to csv file. Data related to car price. other characteristics etc 
 
 ## Functionality:
 1. scrap real time data (now) from [Allegro](https://allegro.pl/)
